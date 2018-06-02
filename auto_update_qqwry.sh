@@ -28,7 +28,9 @@ fi
 # copy data to date dir
 echo copy date to date dir
 
-date_dir=historys/`date "+%Y_%m_%d"`
+date_dir="historys/`date "+%Y_%m_%d"`"
+echo ${date_dir}
+mkdir historys
 mkdir ${date_dir}
 
 # copy tem file
