@@ -4,7 +4,7 @@
 # 目录说明
  1、historys目录为历史数据，里边带日期的子目录为每周纯真更新的ip库的数据文件，可以从这里获取历史ip库文件
  
- 2、根目录下的qqwry-lastest.dat为当前最新的ip库文件，用于其他软件获取最新ip库  
+ 2、根目录下的qqwry_lastest.dat为当前最新的ip库文件，用于其他软件获取最新ip库  
  
  3、auto_update_qqwry.sh和update_chunzhen.py文件未获取最新ip库的核心逻辑和封装脚本，可以用来自行集成获取ip库能力  
 
