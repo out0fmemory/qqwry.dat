@@ -12,7 +12,8 @@ fi
 echo old data md5 is ${lastest_md5}
 
 
-python3 update_chunzhen.py ${tem_file}
+#python3 update_chunzhen.py ${tem_file}
+sh ./get_chunzhen.sh ${tem_file}
 
 tem_md5=""
 if [ -f "${tem_file}" ];then
