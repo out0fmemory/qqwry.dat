@@ -1,6 +1,6 @@
 #!/bin/sh
 chunzhen_url=http://update.cz88.net/soft/setup.zip
-innoextract_path='/usr/bin/innoextract'
+innoextract_path='/bin/innoextract'
 tem_dir=temp
 
 current_dir=`pwd`
