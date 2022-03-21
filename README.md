@@ -14,7 +14,7 @@
  拉取最新ip库的核心python脚本参考自https://www.xxorg.com/archives/4836 ，thx！
 
 # license
-Copyright (C) out0fmemory jiu4majia2@163.com, 2017
+Copyright (C) out0fmemory 2017
 
 This work is free. You can redistribute it and/or modify it under the terms of the Do What The Fuck You Want To But It's Not My Fault Public License, Version 1, as published by Ben McGinnes:
 
