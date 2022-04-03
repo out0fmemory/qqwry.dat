@@ -13,7 +13,7 @@ mkdir $tem_dir
 cd $tem_dir
 
 # down
-wget $chunzhen_url
+wget --inet4-only $chunzhen_url
 
 # unzip
 unzip setup.zip
